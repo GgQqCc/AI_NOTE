@@ -1,0 +1,7 @@
+FLOP:Floating-point operations per second 每秒浮点运算次数
+NVIDIA GeForce RTX 4080 : 48.737 TFLOPS
+MFLOPS（megaFLOPS）等于每秒一百万（106）次的浮点运算；
+GFLOPS（gigaFLOPS）等于每秒十亿（109）次的浮点运算；
+TFLOPS（teraFLOPS）等于每秒一万亿（1012）次的浮点运算；
+PFLOPS（petaFLOPS）等于每秒一千万亿（1015）次的浮点运算；
+EFLOPS（exaFLOPS）等于每秒一百京/一百亿亿（1018）次的浮点运算。
