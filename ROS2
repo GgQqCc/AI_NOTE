@@ -14,3 +14,13 @@ ROS2 重新设计了API接口
 
 ROS2 升级ament 和colcon 编译系统
 
+节点间话题传递信息，多对多。异步通讯
+发布者publish 订阅者subscripition（subscribe）。 通过DDS信息传递  OpenCv 驱动相机
+
+服务通信：C/S模型 客户端/服务器模型 网页等就是这个模型  同步通讯模型  1对多通讯模型
+
+
+
+
+
+
