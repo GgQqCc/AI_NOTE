@@ -1,5 +1,1 @@
-![](/home/guoqichao/snap/marktext/9/.config/marktext/images/2025-12-25-21-28-23-截图%202025-12-25%2021-28-13.png)
-
-![](/home/guoqichao/snap/marktext/9/.config/marktext/images/2025-12-25-21-28-48-截图%202025-12-25%2021-28-37.png)
-
-![](/home/guoqichao/snap/marktext/9/.config/marktext/images/2025-12-25-21-29-27-截图%202025-12-25%2021-29-19.png)
+<img width="1687" height="1099" alt="截图 2025-12-25 21-28-37" src="https://github.com/user-attachments/assets/51547898-8829-4cec-a4d0-0e4f27779385" />
